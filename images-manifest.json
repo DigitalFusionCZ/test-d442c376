@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T20:00:21.971Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-white.png",
+      "file_name": "logo-white.png",
+      "description": "White version of the company logo, likely for use on dark backgrounds or in the header.",
+      "suggested_usage": "Use as the primary logo in the header/navigation bar. Ensure it's responsive and scales well across devices. Consider leveraging an SVG for better scalability if the original design allows.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/gallery-tanvald-building.jpg",
+      "file_name": "gallery-tanvald-building.jpg",
+      "description": "Image depicting a building or construction project, possibly from Tanvald, showcasing completed work.",
+      "suggested_usage": "Use in a project gallery or portfolio section to display completed construction work. Could also be used as a background image for a 'Our Projects' or 'Case Studies' section. Ensure alt text is added for accessibility, e.g., 'Completed building project in Tanvald'.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/gallery-family-house-exterior.jpg",
+      "file_name": "gallery-family-house-exterior.jpg",
+      "description": "Image of the exterior of a family house, likely a completed new build or reconstruction project.",
+      "suggested_usage": "Use in a project gallery, services section (e.g., 'New Builds' or 'Reconstructions'), or as a visual representation of their residential construction capabilities. Ensure alt text is descriptive for accessibility, e.g., 'Exterior view of a newly constructed family house'.",
+      "size_bytes": 558411
+    }
+  ]
+}
